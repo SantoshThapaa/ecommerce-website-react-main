@@ -1,0 +1,9 @@
+.carousel-item img{
+  height: 545px;
+  object-fit: cover;
+}
+
+.card img{
+  height: 180px;
+  object-fit: cover;
+}
